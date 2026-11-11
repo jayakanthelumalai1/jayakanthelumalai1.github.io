@@ -19,3 +19,4 @@ Edit `index.html` in the repository. The page is a responsive, single-file HTML/
 ## Content
 
 The portfolio includes the profile, education, Samsung experience, technical skills, selected projects and contact details supplied for the portfolio draft.
+<img src="photo.jpg" width="150" alt="Jayakanth Elumalai">
